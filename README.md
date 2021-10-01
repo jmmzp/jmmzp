@@ -1,4 +1,4 @@
-<h1 align = "center"> Fala aí cara <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, eu sou José Mario </ h1 >
+<h1 align = "center"> Fala aí cara <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, eu sou José Mario! </ h1 >
 <h3 align = "center"> Aluno da Kenzie Academy, iniciando meus estudos na área de full-stack web. </h3>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "maykbrito" /> </p>
 
