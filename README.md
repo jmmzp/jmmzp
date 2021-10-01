@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align = "center"> Fala aí cara <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, eu sou José Mario </ h1 >
+<h3 align = "center"> Aluno da Kenzie Academy, iniciando meus estudos na área de full-stack web. </h3>
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "maykbrito" /> </p>
 
-<!--
-**jmmzp/jmmzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo HTLM, CSS e JavaScript.
+- 👯 Busco colaborar em que for possível.
+- ⚡ Curiosidade ** Oneye 😜 **
+- 📫 Como entrar em contato comigo **zecaomeira@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt = "css3" width = "20" height = "20" />
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "20" height = "20" />
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "20" height = "20" />
