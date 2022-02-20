@@ -1,5 +1,5 @@
 <h1 align = "center">Opa <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px">, eu sou José Mario! </ h1 >
-<h3 align = "center"> Aluno da Cubos Academy, iniciando meus estudos na área de desenvolvimento web. </h3>
+<h3 align = "center"> <strong> Aluno da Cubos Academy, iniciando meus estudos na área de desenvolvimento web. </strong> </h3>
 
   <br>
 
