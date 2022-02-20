@@ -1,13 +1,17 @@
 <h1 align = "center">Opa <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px">, eu sou José Mario! </ h1 >
-<h3 align = "center"> <strong> Aluno da Cubos Academy, iniciando meus estudos na área de desenvolvimento web. </strong> </h3>
+<h3 align = "center">  Aluno da Cubos Academy, iniciando meus estudos na área de desenvolvimento web.  </h3>
 
   <br>
+  
+  <strong>
 
 - 🌱 Atualmente estudando JavaScript com REACT e NodeJS.
 - 👯 Buscando sempre colaborar em que for possível para aprende ao máximo.
 - 📫 Contato: **zecaomeira@gmail.com**
-  <br>
-  <br>
+
+  </strong>
+
+<br>
 
 <P align = "left">
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "css3" height = "25"/>
