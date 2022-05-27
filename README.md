@@ -1,4 +1,6 @@
-![Imgur](https://imgur.com/GHmS9JH.gif)
+<h4 align="center">
+ 
+![Imgur](https://i.imgur.com/GHmS9JH.gif)
 
 <hr>
 
