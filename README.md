@@ -1,4 +1,4 @@
-![Profile banner](https://i.pinimg.com/originals/5f/f4/58/5ff45883d083027e28142ce6fc48659d.gif)
+![Imgur](https://imgur.com/GHmS9JH.gif)
 
 <hr>
 
