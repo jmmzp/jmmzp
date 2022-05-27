@@ -1,27 +1,49 @@
-<img src='https://i.pinimg.com/originals/5f/f4/58/5ff45883d083027e28142ce6fc48659d.gif'>
+![Profile banner](https://i.pinimg.com/originals/5f/f4/58/5ff45883d083027e28142ce6fc48659d.gif)
 
-<h1 align = "center">Eai <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px"> eu me chamo José Mario! </ h1 >
+<hr>
 
-<h3 align = "center">  Aluno da <strong> Cubos Academy</strong>, iniciando meus estudos na área de desenvolvimento web.  </h3>
-
-  <br>
-
-  <strong>
-
-- 🌱 Atualmente estudando JavaScript com REACT e NodeJS.
-- 👯 Buscando sempre colaborar em que for possível para aprende ao máximo.
-- 📫 Contato: **zecaomeira@gmail.com**
-
-  </strong>
+<h2 align = "center"><strong> Eai <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px"> eu me chamo José Mario! </h2>
 
 <br>
 
-<P align = "left">
+```
+Um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.
+```
+
+</strong>
+<hr>
+<br>
+
+<!-- BADGES -->
+<p align = "center">
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "css3" height = "25"/>
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css3" height = "25"/>
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "css3" height = "25"/>
+<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "css3" height = "25"/>
 <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "css3" height = "25"/>
-<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "css3" height = "25"/></p>
+<img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt = "css3" height = "25"/>
+<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "css3" height = "25"/>
+</p>
+<!-- /BADGES -->
+
+<hr>
+<br>
+
+<h3 > <strong>🖥️ <u> O que estou estudando</u>:</strong></h3>
+<br>
+
+<strong>
+
+- HTML / CSS3
+
+- JavaScript com REACT.
+- NODE.JS
+- Criação e consumo de API's RESTful com EXPRESS.JS
+- Banco de Dados relacionais - POSTGRESQL
+
+</strong>
+
+<hr>
 
 <br>
 
