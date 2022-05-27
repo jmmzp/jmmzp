@@ -2,8 +2,6 @@
  
 ![Imgur](https://i.imgur.com/GHmS9JH.gif)
 
-<hr>
-
 <h2 align = "center"><strong> Eai <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px"> eu me chamo José Mario! </h2>
 
 <br>
