@@ -1,4 +1,7 @@
-<h1 align = "center">Opa <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px">, eu sou José Mario! </ h1 >
+<img src='https://i.pinimg.com/originals/5f/f4/58/5ff45883d083027e28142ce6fc48659d.gif'>
+
+<h1 align = "center">Eai <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px"> eu me chamo José Mario! </ h1 >
+
 <h3 align = "center">  Aluno da <strong> Cubos Academy</strong>, iniciando meus estudos na área de desenvolvimento web.  </h3>
 
   <br>
@@ -23,5 +26,3 @@
 <br>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jmmzp&theme=blue-green"/>
-
-<img src = "https://github-readme-stats.vercel.app/api?username=jmmzp&theme=blue-green"/>
