@@ -1,14 +1,20 @@
 <h4 align="center">
  
-![Imgur](https://i.imgur.com/GHmS9JH.gif)
+![Header](./assets/header.gif)
 
-<h2 align = "center"><strong> Eai <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "25px"> eu me chamo José Mario! </h2>
+<h2 align = "center"><strong> Hey there! Eu me chamo José Mario! </h2>
 
 <br>
 
-```
-Um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.
-```
+<style>
+    h3{
+      background:#171515;
+      border-radius:8px;
+      padding:8px
+    }
+</style>
+
+<h3>Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</h3>
 
 </strong>
 <hr>
