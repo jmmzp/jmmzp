@@ -4,8 +4,7 @@
 
 <h2 align = "center"><strong> Hey there! Eu me chamo José Mario! </h2>
 
-<br>
-
+<hr>
 <h3 align="center">Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</h3>
 
 </strong>
