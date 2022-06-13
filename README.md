@@ -6,15 +6,7 @@
 
 <br>
 
-<style>
-    h3{
-      background:#171515;
-      border-radius:8px;
-      padding:8px
-    }
-</style>
-
-<h3>Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</h3>
+<h3 align="center">Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</h3>
 
 </strong>
 <hr>
