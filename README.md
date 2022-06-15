@@ -3,7 +3,7 @@
 <h2 align="center"><strong> Hey there! Eu me chamo José Mario! </strong></h2>
 
 <h3 align="center">
-<strong>Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na <a href="https://cubos.academy">Cubos Academy</a>.</strong></h3>
+<strong>Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na <a href="https://cubos.academy" target="_blank">Cubos Academy</a>.</strong></h3>
 
 <br>
 
