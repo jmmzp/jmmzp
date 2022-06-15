@@ -2,8 +2,6 @@
 
 <h2 align="center"><strong> Hey there! Eu me chamo José Mario! </strong></h2>
 
-<hr>
-
 <h3 align="center">
 <strong>Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</strong></h3>
 
