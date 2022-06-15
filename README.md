@@ -1,6 +1,6 @@
 ![Header](./assets/header.gif)
 
-<h2 align = "center"><strong> Hey there! Eu me chamo José Mario! </strong></h2>
+<h2 align="center"><strong> Hey there! Eu me chamo José Mario! </strong></h2>
 
 <hr>
 
