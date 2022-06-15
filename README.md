@@ -1,14 +1,12 @@
-<h4 align="center">
- 
 ![Header](./assets/header.gif)
 
-<h2 align = "center"><strong> Hey there! Eu me chamo José Mario! </h2>
+<h2 align = "center"><strong> Hey there! Eu me chamo José Mario! </strong></h2>
 
 <hr>
-<h3 align="center">Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</h3>
 
-</strong>
-<hr>
+<h3 align="center">
+<strong>Sou um apaixonado por tecnologia desde pequeno, atualmente tenho dedicado meu tempo à estudar desenvolvimento web na Cubos Academy.</strong></h3>
+
 <br>
 
 <!-- BADGES -->
@@ -26,17 +24,17 @@
 <hr>
 <br>
 
-<h3 > <strong>🖥️ <u> O que estou estudando</u>:</strong></h3>
+<h3 align="center"> <strong><u> O que estou estudando</u></strong></h3>
 <br>
 
 <strong>
 
 - HTML / CSS3
 
-- JavaScript com REACT.
-- NODE.JS
-- Criação e consumo de API's RESTful com EXPRESS.JS
-- Banco de Dados relacionais - POSTGRESQL
+- JavaScript com ReactJS.
+- NodeJS
+- Criação e consumo de API Rest com Express
+- Banco de Dados relacionais - PostgreSQL
 
 </strong>
 
@@ -44,4 +42,4 @@
 
 <br>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jmmzp&theme=blue-green"/>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jmmzp&theme=blue-green"/> -->
